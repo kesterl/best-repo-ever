@@ -1,4 +1,3 @@
 # This is the best-repo-ever.
 
-The above is not an exaggeration.
-
+The previous statement might be an exaggeration.
